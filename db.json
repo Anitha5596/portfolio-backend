@@ -1,0 +1,27 @@
+{
+  "about": [
+    { "text": "Motivated and adaptable professional passionate about innovation and problem-solving." }
+  ],
+  "skills": [
+    { "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
+    { "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." }
+  ],
+  "projects": [
+    { "name": "Portfolio Website with Vue" },
+    { "name": "Real-Time Chat App" },
+    { "name": "Task Tracker with MongoDB" },
+    { "name": "Blog Platform (MEVN)" }
+  ],
+  "education": [
+    { "detail": "Pursuing Masters in Computer Science at University of New Haven" },
+    { "detail": "Completed Bachelors at Bharath University in Electronics & Communication" }
+  ],
+  "certifications": [
+    { "title": "Python Programming" },
+    { "title": "Corporate Grooming & Communication" }
+  ],
+  "experience": [
+    { "detail": "Software Intern at ABC Corp" },
+    { "detail": "Freelance Web Developer" }
+  ]
+}
