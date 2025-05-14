@@ -100,10 +100,5 @@ portfolio-backend/
 
 ---
 
-## 🙋‍♀️ Author
 
-**Anitha Kona**  
-[GitHub Profile](https://github.com/anithakona)
-
----
 
