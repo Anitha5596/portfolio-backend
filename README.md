@@ -21,7 +21,7 @@ Returns full portfolio data from MongoDB.
   "experience": [...],
   "certifications": [...],
   "contact": {
-    "email": "example@example.com",
+    "email": "akona4@unh.newhaven.edu",
     "phone": "123-456-7890"
   }
 }
@@ -72,7 +72,7 @@ npm install
 ### 3. Create `.env` file
 ```
 PORT=5596
-MONGODB_URI=your-mongodb-uri
+MONGODB_URI=mongodb+srv://anitha:<db_password>@cluster0.szv3odk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 ### 4. Start the server
